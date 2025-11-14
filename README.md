@@ -1,3 +1,7 @@
+**Databse**: microsoft sq server
+**Migrations**: automatic on API startup (no manual commands needed)
+**Logs**: checkk `Logs/` folder for detailed error information
+
 ## Quick Reference Card
 
 | Endpoint | Method | Purpose |
@@ -97,4 +101,3 @@ http://localhost:5249/api/client-session/client/John%20Doe
 4. Enter session ID (e.g., `1`)
 5. Click **Execute**
    
----
